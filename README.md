@@ -22,10 +22,13 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
+## 🚨 Inspiration
+
+This project was inspired by, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS, Moodflix is a website project designed to help beginners get started with learning React.js. The platform offers a sleek and modern experience for browsing and discovering movies.
+Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS. The platform offers a sleek and modern experience for browsing and discovering movies.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
